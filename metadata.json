@@ -1,0 +1,8 @@
+{
+  "name": "NotaryPro VecinoXpress",
+  "description": "A comprehensive platform for hybrid remote notarization (REN/RON). It enables a seamless workflow between a client at a Point-of-Sale (POS) terminal and a remote certifier, featuring real-time document editing, secure signing, and automated document delivery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
